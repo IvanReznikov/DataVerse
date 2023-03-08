@@ -1,10 +1,10 @@
 # Python Basics Onepager
 
-![Python Basics Onepager](https://github.com/IvanReznikov/DataVerse/raw/master/Onepagers/images/onepager_pythonbasics_120_lq.png?raw=true)
+![Python Basics Onepager](https://github.com/IvanReznikov/DataVerse/raw/master/Onepagers/images/python_onepager_122_lq.png?raw=true)
 Links:
-- [height: 2000px](https://drive.google.com/file/d/1YwVm__krpp35rMMW807B_EyCM-1buZXx/view?usp=share_link)
-- [HQ -- height: 3000px](https://drive.google.com/file/d/1Z-aujWC7QioVhJnCrzDSQX3dm-QgWgdm/view?usp=share_link)
-- [PDF HQ -- height: 3000px](https://drive.google.com/file/d/1YwVm__krpp35rMMW807B_EyCM-1buZXx/view?usp=share_link)
+- [width: 1000px](https://drive.google.com/file/d/1K5fyzopUj-M6m2GkibrcxEtwJEMkGO9a/view?usp=sharing)
+- [HQ -- width: 2500px](https://drive.google.com/file/d/1LIw9DveFkAyJvEz-ZYwzTujriCpnk5TT/view?usp=sharing)
+- [PDF HQ -- width: 2500px](https://drive.google.com/file/d/16zwEojb4GauVJG88CoGfPaVp5IS3BKR3/view?usp=sharing)
 
 Topics covered:
 - Variables
