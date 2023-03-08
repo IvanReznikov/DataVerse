@@ -1,6 +1,7 @@
 # Python Basics Onepager
 
 Latest version: 1.2.2
+
 Date of update: 08.03.2022
 
 ![Python Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/python_onepager_122_lq.png?raw=true)
