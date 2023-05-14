@@ -12,6 +12,13 @@ Cheatsheets are a helpful reference tool for developers, providing quick and eas
 Current repo folder is dedicated to solving above problems.
 The folder structure will contain onepager readme with a low quality example of the onepager and links to images and pdf files of higher quality.
 
+## Available onepagers
+![Python Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/onepager_python_basics.md)
+![Python Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/python_onepager_122_lq.png?raw=true)
+
+![Pandas Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers//onepager_pandas_basics.md)
+![Pandas Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/pandas_onepager_153_lq.png?raw=true)
+
 ## Feedback
 If you found a mistake, error or typo -- feel free to create an issue with tag #onepager #bug
 If you have a suggestion or an idea how to improve the onepager -- feel free to create an issue with tag #onepager #idea
