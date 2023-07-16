@@ -17,7 +17,7 @@ The folder structure will contain onepager readme with a low quality example of 
 ![Python Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/python_onepager_122_lq.png?raw=true)
 
 [Pandas Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers//onepager_pandas_basics.md)
-![Pandas Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/pandas_onepager_153_lq.png?raw=true)
+![Pandas Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/pandas_onepager_160_lq.png?raw=true)
 
 ## Feedback
 If you found a mistake, error or typo -- feel free to create an issue with tag #onepager #bug
