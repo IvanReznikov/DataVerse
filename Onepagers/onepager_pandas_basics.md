@@ -1,8 +1,8 @@
 # Python Basics Onepager
 
-Latest version: 1.5.3
+Latest version: 1.6.0
 
-Date of update: 14.05.2023
+Date of update: 16.07.2023
 
 ![Pandas Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/pandas_onepager_160_lq.png?raw=true)
 
