@@ -5,6 +5,7 @@ The course is still under development. Feedback and suggestions are appreciated.
 * What is LangChain?
 * What are the components of LangChain?
 * How do LangChain components work together?
+
 Colab: https://colab.research.google.com/drive/1svn1BPfIiUL-82P4Rv_smoTPPyoeuWfa#scrollTo=gXypMluAjBME
 
 ### 2. Agents and Tools
