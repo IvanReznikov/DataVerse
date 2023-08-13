@@ -15,11 +15,11 @@ Colab: https://colab.research.google.com/drive/1svn1BPfIiUL-82P4Rv_smoTPPyoeuWfa
 * How to use the LLM to write different kinds of creative content
 * How to use the LLM to answer questions
 
-### 3: Embeddings and Vectorstores
-* What are embeddings?
+### 3: Vectorstores and How to Work with Data
 * What are vectorstores?
 * How do embeddings and vectorstores work?
-* How to use embeddings and vectorstores in LangChain
+* How to use your own data?
+* How to apply vectorstores in LangChain?
 
 ### 4: Indices
 * What are indices?
