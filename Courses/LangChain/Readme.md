@@ -10,10 +10,21 @@ Colab: https://colab.research.google.com/drive/1svn1BPfIiUL-82P4Rv_smoTPPyoeuWfa
 
 ### 2. Large Language Models
 * What is the LLM?
-* How to use the LLM to generate text
-* How to use the LLM to translate languages
-* How to use the LLM to write different kinds of creative content
-* How to use the LLM to answer questions
+* What are tokens?
+* How to speak to the model directly?
+* What are embeddings?
+* How to use opensource alternatives to openai models?
+* How to quantitize models to run in colab?
+* Simple langchain integration
+* How to launch a large language model CPU-only?
+* How text is generated and what decoding strategies exist?
+* How to finetune a model?
+
+Colab:
+- Models: https://colab.research.google.com/drive/1Z7ka-fOfF47P3tcpOPp-wBT9sMn3Ltnp?usp=sharing
+- Text Generation and Decoding Strategies: https://colab.research.google.com/drive/14YZHDv7XyxRdSAjlJaaZRlBa-GYi9Ufu?usp=sharing
+- Finetuning: https://colab.research.google.com/drive/1wPf47vMLYA33XQEGltH9E-ArzHDvWE6o?usp=sharing
+
 
 ### 3: Vectorstores and How to Work with Data
 * What are vectorstores?
