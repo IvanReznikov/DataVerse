@@ -1,0 +1,24 @@
+item_id,Name,Category,Description
+u0000,Apples,Fruits,"Sweet and crisp, a healthy snack choice."
+u0001,Bananas,Fruits,Convenient and packed with natural energy.
+u0002,Oranges,Fruits,Juicy and rich in vitamin C for a citrus burst.
+u0003,Carrots,Vegetables,Crunchy and high in beta-carotene for eye health.
+u0004,Broccoli,Vegetables,Nutrient-dense and versatile green vegetable.
+u0005,Tomato,Vegetables,"Juicy and flavorful, perfect for salads."
+u0006,Pumpkin,Vegetables,"Versatile squash, great for soups and pies."
+u0007,Grapes,Fruits,"Sweet, bite-sized treats full of antioxidants."
+u0008,Strawberries,Fruits,"Bursting with flavor, great for desserts."
+u0009,Blueberries,Fruits,Tiny powerhouses of antioxidants and flavor.
+u0010,Cola,Beverages,"Classic carbonated soft drink, may be sugary."
+u0011,Green Tea,Beverages,"A healthy, refreshing beverage loaded with Catechins."
+u0012,Water,Beverages,Pure and essential hydration for daily life.
+u0013,Energy Drink,Beverages,"Provides a quick energy boost, but use in moderation."
+u0014,Orange Juice,Beverages,Freshly squeezed for a vitamin C kick.
+u0015,Nuts,Snacks,"Protein-packed, crunchy, and nutritious."
+u0016,Dates,Snacks,"Natural sweetener, high in fiber and minerals."
+u0017,Potato Chips,Snacks,"Crispy and salty, but best in moderation."
+u0018,Cereal,Snacks,"Quick and easy breakfast option, choose wisely."
+u0019,Chocolate Bars,Snacks,"Decadent treat, enjoy in moderation."
+u0020,Gummy Bears,Snacks,"Chewy, fruity sweets for occasional indulgence."
+u0021,Popcorn,Snacks,"A light, whole-grain snack when prepared right."
+u0022,Biscuits,Snacks,"A variety of cookies or crackers, watch portions."
