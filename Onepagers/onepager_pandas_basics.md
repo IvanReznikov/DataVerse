@@ -4,7 +4,7 @@ Latest version: 1.6.0
 
 Date of update: 16.07.2023
 
-![Pandas Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/pandas_onepager_160_lq.png?raw=true)
+![Pandas Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/pandas_onepager.png?raw=true)
 
 Links:
 - [width: 1000px](https://drive.google.com/file/d/11aKnM_YhIY7LNsYp679RdgQub6d8FnvS/view?usp=sharing)
