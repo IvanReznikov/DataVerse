@@ -4,7 +4,7 @@ Latest version: 1.2.2
 
 Date of update: 08.03.2023
 
-![Python Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/python_onepager_122_lq.png?raw=true)
+![Python Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/python_onepager.png?raw=true)
 
 Links:
 - [width: 1000px](https://drive.google.com/file/d/1K5fyzopUj-M6m2GkibrcxEtwJEMkGO9a/view?usp=sharing)

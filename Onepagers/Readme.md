@@ -14,13 +14,13 @@ The folder structure will contain onepager readme with a low quality example of 
 
 ## Available onepagers
 [Python Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/onepager_python_basics.md)
-![Python Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/python_onepager_122_lq.png?raw=true)
+![Python Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/python_onepager.png?raw=true)
 
 [Pandas Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/onepager_pandas_basics.md)
-![Pandas Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/pandas_onepager_160_lq.png?raw=true)
+![Pandas Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/pandas_onepager.png?raw=true)
 
 [LangChain Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/onepager_langchain_basics.md)
-![LangChain Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/langchain_onepager_110.png?raw=true)
+![LangChain Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/langchain_onepager.png?raw=true)
 
 ## Feedback
 If you found a mistake, error or typo -- feel free to create an issue with tag #onepager #bug

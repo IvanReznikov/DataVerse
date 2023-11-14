@@ -1,10 +1,10 @@
 # Langchain Basics Onepager
 
-Latest version: 1.1.0
+Latest version: 1.1.1
 
-Date of update: 10.11.2023
+Date of update: 12.11.2023
 
-![Pandas Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/langchain_onepager_110.png?raw=true)
+![Pandas Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/images/langchain_onepager.png?raw=true)
 
 Links:
 - [PDF](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/pdfs/langchain.pdf)
