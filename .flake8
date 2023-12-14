@@ -1,0 +1,20 @@
+[flake8]
+min_python_version = 3.10.0
+max-line-length = 100
+ignore =
+    # Whitespace before ':' (E203)
+    E203
+    # Line lengths are recommended to be no greater than 79 characters. (E501)
+    E501
+    # Line break occurred before a binary operator (W503)
+    W503
+    # Line break occurred after a binary operator (W504) - both are required
+    W504
+max-complexity = 10
+# Enforce numpy docstring format
+docstring-convention = numpy
+# Make ppl use f-strings
+format-greedy = 2
+# Double quotes are preferred
+inline-quotes = double
+multiline-quotes = double
