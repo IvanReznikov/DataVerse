@@ -12,4 +12,4 @@ Kindly give credit to DataVerse and link back to the original post or article wh
 All code in this repository is licensed under the MIT License. This means that you are free to use, modify, and distribute the code as long as you give credit to DataVerse and include the original license in your work.
 
 ## Contact
-If you have any questions or comments about this repository, please feel free to reach out to us at [ivanreznikov@gmail.com](mailto:ivanreznikov@gmail.com).
+If you have any questions or comments about this repository, please feel free to reach out to us at [ivanreznikov@gmail.com](mailto:ivanreznikov@gmail.com) or visit ivanreznikov.com (under development) to know me better.
